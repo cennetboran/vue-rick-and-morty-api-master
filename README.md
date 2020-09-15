@@ -2,7 +2,7 @@
  Vue.js ile api ile Karakterlerin listelenmesi Karakter adına göre arama yapılması Karakter Detayı     ->Karakter hakkında detaylı bilgi.     ->Karakterin oynadığı bölümlerin listenmesi.     ->Karakterin ait olduğu gezegenin diğer sakinlerinin listelenmesi.
 
 # Project
-->Build Setup
+
 
 # install dependencies
 npm install
